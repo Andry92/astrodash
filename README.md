@@ -6,5 +6,5 @@ You can see the accuracy performance of astrodash by screenshots file uploaded.
 "Accuracy - 50 elementi per classe.png" screenshot file shows accuracy result extracting 50 random elements per class,
 where classes are following supernova type: Ia, Ia-norm, Ia-91T, Ib-norm, IIb, Ic-broad, IIP, IIn.
 
-github reference: https://github.com/daniel-muthukrishna/astrodash  
-Documentation at: http://astrodash.readthedocs.io
+Documentation at: http://astrodash.readthedocs.io  
+github reference: https://github.com/daniel-muthukrishna/astrodash
